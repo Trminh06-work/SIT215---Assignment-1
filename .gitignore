@@ -1,0 +1,29 @@
+# .DS_Store
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Ignore unimportant Report.* files
+Report.aux
+Report.bbl
+Report.blg
+Report.fdb_latexmk
+Report.fls
+Report.log
+Report.out
+Report.synctex.gz
+Report.tex
+Report.toc
+Report.apx
+literature.bib
+logo.jpg
+Report/sections
+Report/figures
